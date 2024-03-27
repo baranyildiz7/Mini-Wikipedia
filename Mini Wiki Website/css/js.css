@@ -1,0 +1,21 @@
+body{
+    background: yellow;
+}
+
+h1{
+    background: rgb(249, 174, 35);
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    opacity: 0.5;
+    text-decoration: underline;
+}
